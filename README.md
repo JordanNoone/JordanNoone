@@ -7,6 +7,6 @@
 <br/>
 
 ## About me: 
-Co-Founder, General Partner of Embedded Ventures
-Co-Founder, CEO at KittyCAD
+Co-Founder, General Partner of Embedded Ventures  
+Co-Founder, CEO at KittyCAD  
 Co-Founder, Founding CTO of Relativity Space
