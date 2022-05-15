@@ -1,7 +1,12 @@
-<a href="https://github.com/jordannoone">
-  <img align="center" width="100%" src="./header.svg" />
-</a>
+<div style="width:100%;text-align:center;">
+    <a href="https://github.com/jordannoone">
+        <img align="center" width="45%" src="./header.svg" />
+        <img align="center" width="45%" src="./iso_calender.svg" />
+    </a>
+</div>
 <br/>
-<a href="https://github.com/jrdannoone">
-  <img align="center" width="100%" src="./iso_calender.svg" />
-</a>
+
+## About me: 
+Co-Founder, General Partner of Embedded Ventures
+Co-Founder, CEO at KittyCAD
+Co-Founder, Founding CTO of Relativity Space
