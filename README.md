@@ -1,12 +1,19 @@
-<div style="width:100%;text-align:center;">
-    <a href="https://github.com/jordannoone">
-        <img align="center" width="45%" src="./header.svg" />
-        <img align="center" width="45%" src="./iso_calender.svg" />
-    </a>
-</div>
+<a href="https://github.com/jordannoone">
+    <img align="center" width="50%" src="./header.svg" />
+</a>
+<a href="https://github.com/jordannoone">
+    <img align="center" width="50%" src="./iso_calender.svg" />
+</a>
 <br/>
 
+## Contact: 
+Email • [jordan@embedded.ventures](mailto:jordan@embedded.ventures)  
+Website • https://github.com/JordanNoone  
+
+## Invest with Embedded Ventures:
+[Embedded Ventures Opportunity Fund](https://angel.co/v/back/embedded-ventures-opportunity-fund)  
+
 ## About me: 
-Co-Founder, General Partner of Embedded Ventures  
-Co-Founder, CEO at KittyCAD  
-Co-Founder, Founding CTO of Relativity Space
+[Embedded Ventures](https://www.embedded.ventures/) • Co-Founder, General Partner  
+[KittyCAD](https://kittycad.io/) • Co-Founder, CEO  
+[Relativity Space](https://www.relativityspace.com/) • Co-Founder, Founding CTO  
