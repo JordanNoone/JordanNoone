@@ -13,6 +13,11 @@ Website • https://github.com/JordanNoone
 # Invest with Embedded Ventures:
 [Embedded Ventures Opportunity Fund](https://angel.co/v/back/embedded-ventures-opportunity-fund)  
 
+# Profiles
+[Instagram](https://www.instagram.com/jordan.noone/)  
+[Twitter](https://twitter.com/theJordanNoone)  
+[LinkedIn](https://www.linkedin.com/in/jordan-noone/)  
+
 # My Projects: 
 ## Founder:
 [Embedded Ventures](https://www.embedded.ventures/) • Co-Founder, General Partner  
