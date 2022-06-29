@@ -25,9 +25,10 @@ Website • https://github.com/JordanNoone
 [Relativity Space](https://www.relativityspace.com/) • Co-Founder, Founding CTO
 
 ## Investments - Embedded Ventures Portfolio:
-[KittyCAD](https://kittycad.io/)  
-[Inversion Space](https://www.inversionspace.com/)  
+[Akash Systems](http://akashsystemsinc.com/)  
 [Chromatic 3D Materials](https://www.linkedin.com/company/c3dmaterials/)  
+[Inversion Space](https://www.inversionspace.com/)  
+[KittyCAD](https://kittycad.io/)  
 [Skyryse](https://skyryse.com/)  
 [Slingshot Aerospace](https://slingshotaerospace.com/)  
 (+ unannounced investments)
