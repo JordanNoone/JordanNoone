@@ -124,7 +124,7 @@ jobs:
           plugin_followup: yes
           plugin_languages: yes
           plugin_languages_ignored: html
-          plugin_languages_details: percentages
+          plugin_languages_details: percentage
 
 
   repositories:
