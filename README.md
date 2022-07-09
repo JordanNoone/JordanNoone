@@ -30,8 +30,8 @@ Email • [jordan@embedded.ventures](mailto:jordan@embedded.ventures)
 Website • https://github.com/JordanNoone  
 
 # Invest with Embedded Ventures:
-[Embedded Ventures Opportunity Fund](https://angel.co/v/back/embedded-ventures-opportunity-fund)
-We are excited to announce the launch of the Embedded Ventures Opportunity Fund. By creating our Opportunity Fund as a rolling fund on AngelList, our goal is to remove the traditional barriers, and grant access to the investment opportunities we would have wanted access to prior to becoming fund managers. We hope this path towards investing with us helps pave the way for the next generation of VC firms, and creates a more inclusive guide to those who follow.
+## The [Embedded Ventures Opportunity Fund](https://angel.co/v/back/embedded-ventures-opportunity-fund):
+ We are excited to announce the launch of the Embedded Ventures Opportunity Fund. By creating our Opportunity Fund as a rolling fund on AngelList, our goal is to remove the traditional barriers, and grant access to the investment opportunities we would have wanted access to prior to becoming fund managers. We hope this path towards investing with us helps pave the way for the next generation of VC firms, and creates a more inclusive guide to those who follow.
 
 # My Story: 
 Jordan Noone is co-founder and founding CTO of Relativity Space, and also co-founded both Embedded Ventures and KittyCAD. Before that, he led University of Southern California’s Rocket Propulsion Laboratory for two years, overseeing the development and launch of the first two entirely student-built rockets with capability of reaching the altitude of space, over 100km high. Those flights resulted in him becoming the first student, and youngest person in the world, to get FAA clearance to fly a rocket to space. From there, he worked on crewed spaceflight propulsion systems at both Blue Origin as an intern, and then SpaceX full-time, before starting Relativity in 2015 when he was 22 years old.  
