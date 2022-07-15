@@ -125,7 +125,7 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           plugin_followup: yes
           plugin_followup_sections: user
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: no
           plugin_languages: yes
           plugin_languages_ignored: html
           plugin_languages_details: percentage
