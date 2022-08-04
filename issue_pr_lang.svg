@@ -123,10 +123,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.26665508932643" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="323.26665508932643" y="0" width="130.6222458592919" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="453.8889009486183" y="0" width="3.647187791694705" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="457.536088740313" y="0" width="2.4639112596869777" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="321.51138314064576" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="321.51138314064576" y="0" width="132.4106998283623" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="453.9220829690081" y="0" width="3.6273843064866096" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="457.5494672754947" y="0" width="2.450532724505327" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -138,7 +138,7 @@
                                 TeX
                             </div>
                             <small>
-                                <div>70.28%</div>
+                                <div>69.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -162,7 +162,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>28.4%</div>
+                                <div>28.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -173,7 +173,7 @@
                                 Dockerfile
                             </div>
                             <small>
-                                <div>0.54%</div>
+                                <div>0.53%</div>
                             </small>
                         </div>
                     </section>
