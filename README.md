@@ -41,7 +41,6 @@ My time is split between Embedded Ventures, the venture capital fund that Jenna 
 I’ve been fortunate to be on the entrepreneurial journey that I’ve had. The only goal that has ever resonated with me is to make the opportunity for that journey easier and more accessible for the next generation. That’s why we started Embedded, to support founders and tech areas overlooked by the mainstream venture community. That’s why we support programs like Project Payload and our other education outreach work. KittyCAD provides the tools needed by innovators designing world-changing hardware, Relativity allows iteration and imagination to flow freely in some of the world’s most complex hardware projects. I look forward to next week, and all my weeks, because they are full of the work required to see that goal happen. I am surrounded by equally ambitious people and teams working towards either the same goal, or goals that I believe in seeing happen.
 
 # Profiles
-[Instagram](https://www.instagram.com/jordan.noone/)  
 [Twitter](https://twitter.com/theJordanNoone)  
 [LinkedIn](https://www.linkedin.com/in/jordan-noone/)  
 
