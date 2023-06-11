@@ -47,7 +47,7 @@ I’ve been fortunate to be on the entrepreneurial journey that I’ve had. The 
 # My Projects: 
 ## Founder:
 [Embedded Ventures](https://www.embedded.ventures/) • Co-Founder, General Partner  
-[KittyCAD](https://kittycad.io/) • Co-Founder, Executive Chairman
+[KittyCAD](https://kittycad.io/) • Co-Founder, Executive Chairman. 
 [Relativity Space](https://www.relativityspace.com/) • Co-Founder, Founding CTO
 
 ## Investments - Embedded Ventures Portfolio:
