@@ -58,3 +58,12 @@ I’ve been fortunate to be on the entrepreneurial journey that I’ve had. The 
 [USC Rocket Propulsion Laboratory](http://www.uscrpl.com/) • Former Chief Engineer and Chief Operations Officer (Lab Lead)  
 [Blue Origin](https://www.blueorigin.com/) • Former Engines Intern  
 [Hughes Research Laboratories](https://www.hrl.com/) • Former Sensors & Materials Intern  
+
+# Gallery:
+<section>
+<img class="fill" align="center" width="49%" src="./media/Terran 1 Launch.JPG" />
+<img class="fill" align="center" width="49%" src="./media/Traveler I Launch.jpeg" />
+<img class="fill" align="center" width="49%" src="./media/Stargate 2.PNG" />
+<img class="fill" align="center" width="49%" src="./media/World Web Forum.jpg" />
+<img class="fill" align="center" width="49%" src="./media/Terran 1 Launch_2.JPG" />
+<img class="fill" align="center" width="49%" src="./media/Stargate.JPG" />
