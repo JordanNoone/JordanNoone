@@ -28,6 +28,8 @@
 # Contact: 
 Email • [jordan@embedded.ventures](mailto:jordan@embedded.ventures)  
 Website • https://github.com/JordanNoone  
+Twitter • https://twitter.com/theJordanNoone  
+LinkedIn • https://www.linkedin.com/in/jordan-noone/  
 
 # My Story: 
 I'm co-founder and founding CTO of Relativity Space, and also co-founded both Embedded Ventures and KittyCAD. Before that, I led University of Southern California’s Rocket Propulsion Laboratory for two years, overseeing the development and launch of the first two entirely student-built rockets with capability of reaching the altitude of space, over 100km high. Those flights resulted in me becoming the first student, and youngest person in the world, to get FAA clearance to fly a rocket to space. From there, I worked on crewed spaceflight propulsion systems at both Blue Origin as an intern, and then SpaceX full-time, before starting Relativity in 2015 when I was 22 years old.  
@@ -35,10 +37,6 @@ I'm co-founder and founding CTO of Relativity Space, and also co-founded both Em
 My time is split between Embedded Ventures, the venture capital fund that Jenna Bryant and I founded together in 2020, and KittyCAD as Executive Chairman, which is a startup we spun out of the fund last year. Embedded invests in dual-use space startups beyond launch, riding the disruption wave of falling launch costs from the last two decades of commercial launcher development. KittyCAD brings code to hardware, providing code infrastructure for hardware design automation. They both branch out from my co-founding Relativity Space and as CTO for the first six years — Embedded: investing in the future applications of launch, next-generation additive manufacturing and next generation digital engineering tools for hardware design — and KittyCAD: solving the bottlenecks on the design floor of cutting-edge hardware companies, rather than what we solved through 3D printing on the factory floor at Relativity. 
 
 I’ve been fortunate to be on the entrepreneurial journey that I’ve had. The only goal that has ever resonated with me is to make the opportunity for that journey easier and more accessible for the next generation. That’s why we started Embedded, to support founders and tech areas overlooked by the mainstream venture community. That’s why we support programs like Project Payload and our other education outreach work. KittyCAD provides the tools needed by innovators designing world-changing hardware, Relativity allows iteration and imagination to flow freely in some of the world’s most complex hardware projects. I look forward to next week, and all my weeks, because they are full of the work required to see that goal happen. I am surrounded by equally ambitious people and teams working towards either the same goal, or goals that I believe in seeing happen.
-
-# Profiles
-[Twitter](https://twitter.com/theJordanNoone)  
-[LinkedIn](https://www.linkedin.com/in/jordan-noone/)  
 
 # My Projects: 
 ## Founder:
