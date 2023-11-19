@@ -31,18 +31,25 @@ Website • https://github.com/JordanNoone
 Twitter • https://twitter.com/theJordanNoone  
 LinkedIn • https://www.linkedin.com/in/jordan-noone/  
 
-# My Story: 
-I'm co-founder and founding CTO of Relativity Space, and also co-founded both Embedded Ventures and KittyCAD. Before that, I led University of Southern California’s Rocket Propulsion Laboratory for two years, overseeing the development and launch of the first two entirely student-built rockets with capability of reaching the altitude of space, over 100km high. Those flights resulted in me becoming the first student, and youngest person in the world, to get FAA clearance to fly a rocket to space. From there, I worked on crewed spaceflight propulsion systems at both Blue Origin as an intern, and then SpaceX full-time, before starting Relativity in 2015 when I was 22 years old.  
+# My Bioy: 
+Jordan Noone is the Co-Founder and General Partner at Embedded Ventures, a next generation venture capital firm investing in early-stage deep tech startups. The firm invests in the pre-seed, seed and Series A rounds for startups focused on space operations, digital engineering, and advanced manufacturing. In addition to his role at Embedded, Jordan is Co-Founder and Executive Chairman of portfolio company KittyCAD, the world's only company to develop advanced hardware design tools and infrastructure.  
 
-My time is split between Embedded Ventures, the venture capital fund that Jenna Bryant and I founded together in 2020, and KittyCAD as Executive Chairman, which is a startup we spun out of the fund last year. Embedded invests in dual-use space startups beyond launch, riding the disruption wave of falling launch costs from the last two decades of commercial launcher development. KittyCAD brings code to hardware, providing code infrastructure for hardware design automation. They both branch out from my co-founding Relativity Space and as CTO for the first six years — Embedded: investing in the future applications of launch, next-generation additive manufacturing and next generation digital engineering tools for hardware design — and KittyCAD: solving the bottlenecks on the design floor of cutting-edge hardware companies, rather than what we solved through 3D printing on the factory floor at Relativity. 
+In 2015, at 22 years old, Jordan started Relativity Space, which was most recently valued at $4.2B. As Relativity's Chief Technology Officer for five years, Jordan focused on technical direction and engineering design, including: developing printing technology, launch vehicle design, propulsion design, software development, infrastructure development, and government affairs. Jordan also led many Relativity initiatives including: expansion of Relativity’s Stargate Factory into the rest of aerospace manufacturing, Relativity’s strategy for expanding printing technology off-planet; and the ability of Relativity’s factory to flexibly scale to a wide range of rocket sizes.  
 
-I’ve been fortunate to be on the entrepreneurial journey that I’ve had. The only goal that has ever resonated with me is to make the opportunity for that journey easier and more accessible for the next generation. That’s why we started Embedded, to support founders and tech areas overlooked by the mainstream venture community. That’s why we support programs like Project Payload and our other education outreach work. KittyCAD provides the tools needed by innovators designing world-changing hardware, Relativity allows iteration and imagination to flow freely in some of the world’s most complex hardware projects. I look forward to next week, and all my weeks, because they are full of the work required to see that goal happen. I am surrounded by equally ambitious people and teams working towards either the same goal, or goals that I believe in seeing happen.
+Jordan has had a lifelong interest in aerospace and began designing and building spaceflight hardware at the University of Southern California. Jordan led USC’s Rocket Propulsion Lab and became the first student and youngest individual in the world to receive Federal Aviation Administration clearance to fly a rocket into space.   
+
+Jordan is still involved with USC’s Rocket Propulsion Lab advising student members, is a member of the USC President’s Leadership Council, and sponsors the USC K-12 STEM Center’s Project Payload.  
+
+He received a BS in Aerospace Engineering from the University of Southern California, and lives in the greater Los Angeles area.  
 
 # My Projects: 
 ## Founder:
 [Embedded Ventures](https://www.embedded.ventures/) • Co-Founder, General Partner  
 [KittyCAD](https://kittycad.io/) • Co-Founder, Executive Chairman  
 [Relativity Space](https://www.relativityspace.com/) • Co-Founder, Founding CTO
+
+## Other Work
+[University of Southern California](https://www.president.usc.edu/) • President's Leadership Council
 
 ## Investments - Embedded Ventures Portfolio:
 [Akash Systems](http://akashsystemsinc.com/)  
@@ -53,7 +60,7 @@ I’ve been fortunate to be on the entrepreneurial journey that I’ve had. The 
 [Slingshot Aerospace](https://slingshotaerospace.com/)  
 (+ unannounced investments)
 
-## Other Projects:
+## Previous Work:
 [SpaceX](https://www.spacex.com/) • Former In-Space Propulsion Engineer, Former Propulsion Intern  
 [USC Rocket Propulsion Laboratory](http://www.uscrpl.com/) • Former Chief Engineer and Chief Operations Officer (Lab Lead)  
 [Blue Origin](https://www.blueorigin.com/) • Former Engines Intern  
