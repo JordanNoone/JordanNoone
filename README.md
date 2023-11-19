@@ -31,7 +31,7 @@ Website • https://github.com/JordanNoone
 Twitter • https://twitter.com/theJordanNoone  
 LinkedIn • https://www.linkedin.com/in/jordan-noone/  
 
-# My Bioy: 
+# My Bio: 
 Jordan Noone is the Co-Founder and General Partner at Embedded Ventures, a next generation venture capital firm investing in early-stage deep tech startups. The firm invests in the pre-seed, seed and Series A rounds for startups focused on space operations, digital engineering, and advanced manufacturing. In addition to his role at Embedded, Jordan is Co-Founder and Executive Chairman of portfolio company KittyCAD, the world's only company to develop advanced hardware design tools and infrastructure.  
 
 In 2015, at 22 years old, Jordan started Relativity Space, which was most recently valued at $4.2B. As Relativity's Chief Technology Officer for five years, Jordan focused on technical direction and engineering design, including: developing printing technology, launch vehicle design, propulsion design, software development, infrastructure development, and government affairs. Jordan also led many Relativity initiatives including: expansion of Relativity’s Stargate Factory into the rest of aerospace manufacturing, Relativity’s strategy for expanding printing technology off-planet; and the ability of Relativity’s factory to flexibly scale to a wide range of rocket sizes.  
