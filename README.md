@@ -61,3 +61,5 @@ He received a BS in Aerospace Engineering from the University of Southern Califo
 <img class="fill" align="center" width="49%" src="./media/World Web Forum.jpg" />
 <img class="fill" align="center" width="49%" src="./media/Terran 1 Launch_3.JPG" />
 <img class="fill" align="center" width="49%" src="./media/Stargate.JPG" />
+<img class="fill" align="center" width="49%" src="./media/Aeon 1.png" />
+<img class="fill" align="center" width="49%" src="./media/USC Kiwi.JPG" />
