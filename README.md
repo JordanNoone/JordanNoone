@@ -19,8 +19,6 @@ LinkedIn • https://www.linkedin.com/in/jordan-noone/
 # My Bio: 
 Jordan Noone is the Co-Founder and General Partner at Embedded Ventures, a next generation venture capital firm investing in early-stage deep tech startups. The firm invests in the pre-seed, seed and Series A rounds for startups focused on space operations, digital engineering, and advanced manufacturing. In addition to his role at Embedded, Jordan is Co-Founder and Executive Chairman of portfolio company Zoo, the world's only company to develop advanced hardware design tools and infrastructure.  
 
-In 2015, at 22 years old, Jordan started Relativity Space, which was most recently valued at $4.2B. As Relativity's Chief Technology Officer for five years, Jordan focused on technical direction and engineering design, including: developing printing technology, launch vehicle design, propulsion design, software development, infrastructure development, and government affairs. Jordan also led many Relativity initiatives including: expansion of Relativity’s Stargate Factory into the rest of aerospace manufacturing, Relativity’s strategy for expanding printing technology off-planet; and the ability of Relativity’s factory to flexibly scale to a wide range of rocket sizes.  
-
 Jordan has had a lifelong interest in aerospace and began designing and building spaceflight hardware at the University of Southern California. Jordan led USC’s Rocket Propulsion Lab and became the first student and youngest individual in the world to receive Federal Aviation Administration clearance to fly a rocket into space.   
 
 Jordan is still involved with USC’s Rocket Propulsion Lab advising student members, is a member of the USC President’s Leadership Council, and sponsors the USC K-12 STEM Center’s Project Payload.  
@@ -31,7 +29,6 @@ He received a BS in Aerospace Engineering from the University of Southern Califo
 ## Founder:
 [Embedded Ventures](https://www.embedded.ventures/) • Co-Founder, General Partner  
 [Zoo](https://zoo.dev/) • Co-Founder, Executive Chairman  
-[Relativity Space](https://www.relativityspace.com/) • Co-Founder, Founding CTO
 
 ## Other Work
 [University of Southern California](https://www.president.usc.edu/) • President's Leadership Council
