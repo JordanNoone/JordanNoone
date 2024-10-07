@@ -13,7 +13,7 @@
 # Contact: 
 Email • [jordan@embedded.ventures](mailto:jordan@embedded.ventures)  
 Website • https://github.com/JordanNoone  
-Twitter • https://twitter.com/theJordanNoone  
+Twitter • https://twitter.com/j_d_noone
 LinkedIn • https://www.linkedin.com/in/jordan-noone/  
 
 # My Bio: 
