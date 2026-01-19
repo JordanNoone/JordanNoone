@@ -18,20 +18,27 @@ Twitter • https://twitter.com/j_d_noone
 LinkedIn • https://www.linkedin.com/in/jordan-noone/  
 
 # My Bio: 
-Jordan Noone is an aerospace engineer, entrepreneur, and early-stage investor focused on deep tech innovations. He is Co-Founder and General Partner at Embedded Ventures, a venture capital firm investing in pre-seed to Series A startups in space operations, digital engineering, and advanced manufacturing. He also co-founded Zoo (formerly KittyCAD), where he serves as Executive Chairman, helping build the future of hardware design tools and infrastructure.
+Jordan Noone is an entrepreneur and investor. He co-founded Embedded Ventures and Zoo, and founded Relativity Space.
 
-Jordan began his journey designing and building spaceflight hardware as a student at the University of Southern California. He led USC's Rocket Propulsion Lab, becoming the youngest person ever to receive FAA clearance to launch a rocket outside Earth's atmosphere. He then went on to intern at Blue Origin and engineer propulsion systems at SpaceX. In 2015, he co-founded Relativity Space, where he served as the founding CTO, guiding direction across everything from propulsion and launch-vehicle design to factory scale printing and software infrastructure.
+He invests as a General Partner at Embedded Ventures, an early stage venture capital firm investing in deep tech. He leads portfolio company Zoo as Executive Chairman, the world's only company that develops full stack generative AI hardware design tools.
 
-He holds a BS in Aerospace Engineering from USC (he enrolled in Biophysics before refocusing fully on aerospace) and remains deeply involved with his alma mater through USC's Rocket Propulsion Lab and the University's President's Leadership Council. Jordan lives in the greater Los Angeles area.
+He founded Relativity Space in 2015, leading the company as Chief Technology Officer for five years and pioneering the development of 3D-printed orbital rockets. Relativity Space was part of Y Combinator's Winter 2016 batch and is now led by former Google CEO Eric Schmidt.
+
+He has had a lifelong interest in aerospace and began designing and building spaceflight hardware at the University of Southern California. Jordan led USC's Rocket Propulsion Lab and became the first student and youngest individual in the world to receive Federal Aviation Administration clearance to fly a rocket into space.
+
+Jordan is still involved with USC's Rocket Propulsion Lab advising student members, is a member of the USC President's Leadership Council, serves on the USC Astronautical Engineering Board of Advisors, and sponsors the USC K-12 STEM Center's Project Payload.
+
+He received a BS in Aerospace Engineering from the University of Southern California, and lives in the greater Los Angeles area.
 
 # My Projects: 
 ## Founder:
 [Embedded Ventures](https://www.embedded.ventures/) • Co-Founder, General Partner  
 [Zoo](https://zoo.dev/) • Co-Founder, Executive Chairman  
-[Relativity Space](https://www.relativityspace.com/) • Co-Founder, Founding CTO  
+[Relativity Space](https://www.relativityspace.com/) • Founder, Former Chief Technology Officer  
 
 ## Other Work
-[University of Southern California](https://www.president.usc.edu/) • President's Leadership Council
+[University of Southern California](https://www.president.usc.edu/) • President's Leadership Council   
+[USC Astronautical Engineering](https://astronautics.usc.edu/) • Board of Advisors
 
 ## Investments - Embedded Ventures Portfolio:
 [Akash Systems](http://akashsystemsinc.com/)  
