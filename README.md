@@ -20,7 +20,7 @@ LinkedIn • https://www.linkedin.com/in/jordan-noone/
 # My Bio: 
 Jordan Noone is an entrepreneur and investor. He co-founded Embedded Ventures and Zoo, and founded Relativity Space.
 
-He invests as a General Partner at Embedded Ventures, an early stage venture capital firm investing in deep tech. He leads portfolio company Zoo as Executive Chairman, the world's only company that develops full stack generative AI hardware design tools.
+He invests as a General Partner at Embedded Ventures, an early stage venture capital firm investing in deep tech. He leads portfolio company Zoo as CEO, the world's only company that develops full stack generative AI hardware design tools.
 
 He founded Relativity Space in 2015, leading the company as Chief Technology Officer for five years and pioneering the development of 3D-printed orbital rockets. Relativity Space was part of Y Combinator's Winter 2016 batch and is now led by former Google CEO Eric Schmidt.
 
@@ -33,7 +33,7 @@ He received a BS in Aerospace Engineering from the University of Southern Califo
 # My Projects: 
 ## Founder:
 [Embedded Ventures](https://www.embedded.ventures/) • Co-Founder, General Partner  
-[Zoo](https://zoo.dev/) • Co-Founder, Executive Chairman  
+[Zoo](https://zoo.dev/) • Co-Founder, CEO  
 [Relativity Space](https://www.relativityspace.com/) • Founder, Former Chief Technology Officer  
 
 ## Other Work
